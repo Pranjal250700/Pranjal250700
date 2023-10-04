@@ -19,11 +19,12 @@
 <br />
 <br />
 
-I'm a Python Developer at <a href="https://www.sortstring.com"> Sort String Solutions, Lucknow</a>.
+I'm a Python Developer at <a href="https://github.com/pranjal2523"> Sort String Solutions, Lucknow</a>.
 <br />
 <br />
+
 <br />
-<img src="https://github.com/pranjal2523/pranjal2523/blob/main/gif/idcard.png" width= 50%>
+<a href="https://www.sortstring.com">Personal GitHub Account</a>
 <br />
 <br />
 **Happy Coding** ❤️
