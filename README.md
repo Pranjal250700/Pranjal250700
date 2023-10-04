@@ -27,4 +27,4 @@ I'm a Python Developer at <a href="https://github.com/pranjal2523"> Sort String 
 <a href="https://www.sortstring.com">Personal GitHub Account</a>
 <br />
 <br />
-**Happy Coding** ❤️
+<b style="font-weight:10px">Happy Coding</b> ❤️
