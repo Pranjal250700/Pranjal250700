@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/pranjal2523/pranjal2523/blob/main/gif/gif4.gif">
+<img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
 <br />
 <br />
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/pranjal2523/pranjal2523/blob/main/gif/Hi.gif" width="30"></h2>
