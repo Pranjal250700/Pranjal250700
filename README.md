@@ -10,7 +10,7 @@
 <img src=https://img.shields.io/badge/facebook-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 
-<a href="#" target="_blank">
+<a href="https://pranjal2523.github.io/portfolio_website" target="_blank">
 <img src="https://img.shields.io/badge/portfolio-%2300acee.svg?color=2962FF&style=for-the-badge&logo=p&logoColor=white%20alt=hshnode%20style=%22margin-bottom:%205px;%22" />
 </a>
 <br />
