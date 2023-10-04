@@ -21,9 +21,8 @@
 <br />
 <br />
 
-I'm a Engineering Student at <a href="https://aktu.ac.in"> AKTU, Lucknow</a>.
+I'm a Python Developer at <a href="https://www.sortstring.com"> Sort String Solutions, Lucknow</a>.
 <br />
-I'm in final year of my engineering and looking for internship or job in a tech driven firm.
 <br />
 <br />
 <img src="https://github.com/pranjal2523/pranjal2523/blob/main/gif/idcard.png" width= 50%>
